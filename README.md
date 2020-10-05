@@ -1,4 +1,4 @@
-# sliderwithcolor
+# Color Picker
 
 ## Project setup
 ```
